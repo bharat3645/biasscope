@@ -1,0 +1,5 @@
+pandas>=1.5
+numpy>=1.23
+pytest>=7.0
+# Optional: only needed for the real Anthropic narration code path in biasscope/narrate.py
+anthropic>=0.25.0

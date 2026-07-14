@@ -1,0 +1,9 @@
+{
+  "y_true": "y_true",
+  "y_pred": "y_pred",
+  "protected": ["race", "gender"],
+  "reference_groups": {
+    "race": "A",
+    "gender": "female"
+  }
+}
